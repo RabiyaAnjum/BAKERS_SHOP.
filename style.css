@@ -1,0 +1,37 @@
+p{  
+    font-size: 20px;
+}
+.header{
+        background-color: rgb(96, 206, 206);
+        
+}
+
+.flex{
+        background-color: rgb(148, 188, 192);
+       
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 30px; ;
+        font-size: 30px;
+        text-decoration-style: solid;
+}
+img{
+display: flex ruby-text;
+border-radius: 25px;
+
+
+}
+.xyz{
+        display: flex;
+        padding: 20px;
+        
+
+}
+h1{
+        text-align: center;
+}
+h2{
+        text-align: center;
+}
+
